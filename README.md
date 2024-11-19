@@ -106,7 +106,3 @@ The Random Forest Classifier achieved the highest accuracy (82.5%) on the test s
 
     Implementing ensemble methods like Bagging and Boosting.
     Experimenting with hyperparameter tuning for further optimization.
-
-📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
